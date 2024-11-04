@@ -6,17 +6,17 @@ body {
     align-items: center;
 }
 
-header {
+nav {
     display: flex; 
     justify-content: center; 
-    align-items: center; 
+    align-items: center;
     background-color: #295264; 
     padding: 10px 20px; 
     width: 100%; 
     margin-top: -10px;
 }
 
-header a {
+nav a {
     color: #ffffff; 
     text-decoration: none; 
     font-size: 25px; 
@@ -24,7 +24,7 @@ header a {
     display: inline-block; 
 }
 
-header a:hover {
+nav a:hover {
     color: #bd2f28; 
 }
 

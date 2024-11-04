@@ -54,9 +54,10 @@ p {
     width: 90%; 
 }
 
-.ingressos-container img{
+.ingressos-container img {
     width: 100%; 
-    border-radius: 8px
+    height: 50%;
+    border-radius: 8px;
 }
 
 .ingresso {
@@ -78,6 +79,7 @@ button {
     border-radius: 5px;
     padding: 12px 20px;
     font-size: 20px;
+    cursor: pointer;
 }
 
 button:hover {

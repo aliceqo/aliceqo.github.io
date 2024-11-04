@@ -30,13 +30,13 @@ if (isset($_SESSION['mensagem'])) {
     <link rel="stylesheet" href="css/conteudo.css">
 </head>
 <body>
-    <header>
-        <a href="index.php">Inícial</a>
+    <nav>
+        <a href="index.php">Inicial</a>
         <a href="conteudo01.php">Ingressos</a>
         <a href="conteudo02.php">Tipos de Ingressos</a>
         <a href="contato.php">Contatos</a>
         <a href="descritiva.php">Descrição</a>
-    </header>    
+    </nav> 
 
     <h1>Tipos de Ingressos</h1>
    
@@ -54,7 +54,7 @@ if (isset($_SESSION['mensagem'])) {
 
                 <form method="post" action="">
                     <input type="hidden" name="tipo_ingresso" value="<?php echo $ingresso['tipo']; ?>">
-                    <button type="submit">Comprar</button>
+                    <button type='submit'>Comprar</button>
                 </form>
             </div>
         <?php endforeach; ?>

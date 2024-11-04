@@ -13,7 +13,7 @@
 <body>
 
 <nav>
-    <a href="index.php">Inícial</a>
+    <a href="index.php">Inicial</a>
     <a href="conteudo01.php">Ingressos</a>
     <a href="conteudo02.php">Tipos de Ingressos</a>
     <a href="contato.php">Contatos</a>
