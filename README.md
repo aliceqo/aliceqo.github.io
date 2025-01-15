@@ -4,6 +4,9 @@ Tecnologias Utilizadas
 - Frontend: HTML e CSS
 - Backend: PHP
 
+Ferramentas Utilizadas:
+- Desenvolvido utilizando o VSCode
+
 Funcionalidades
 - Visualização de shows disponíveis
 - Escolha de categorias de ingressos
