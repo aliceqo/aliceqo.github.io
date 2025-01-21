@@ -2,8 +2,8 @@ Este projeto é um site onde os usuários podem explorar opções de shows e sel
 
 ## Tecnologias Utilizadas
 
-- Frontend: HTML e CSS
-- Backend: PHP
+- Front-end: HTML e CSS
+- Back-end: PHP
 
 ## Ferramentas Utilizadas:
 
